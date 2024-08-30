@@ -7,10 +7,6 @@ from langchain_community.vectorstores import FAISS
 from langchain_openai import ChatOpenAI
 from langchain.chains import RetrievalQA
 
-
-# Initialize the OpenAI client with your API key
-os.environ["OPENAI_API_KEY"] = "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"
-
 vectorstore_path = "vector_stores"
 
 def process_c_files(folder_path):
