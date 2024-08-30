@@ -9,6 +9,17 @@ To install all required libraries, run the following command:
 pip install -r requirements.txt
 ```
 
+## Configuration
+
+Before running the project, ensure you have set up your environment variables:
+
+- **OpenAI API Key:**
+
+  - Add your OpenAI API key to the `.env` file as follows:
+    ```
+    OPENAI_API_KEY=your-api-key-here
+    ```
+
 ## Getting Started
 
 ### Initial Testing
