@@ -2,6 +2,11 @@ import streamlit as st
 from implementation.hypothesis_3_2 import generation_cycle
 from implementation.helper_functions.file_windows import show_file_windows, reload_content_general
 
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # Load environment variables from .env file
+
 
 
 if 'conversation' not in st.session_state:

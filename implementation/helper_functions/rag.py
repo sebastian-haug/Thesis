@@ -7,6 +7,11 @@ from langchain_community.vectorstores import FAISS
 from langchain_openai import ChatOpenAI
 from langchain.chains import RetrievalQA
 
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # Load environment variables from .env file
+
 vectorstore_path = "vector_stores"
 
 def process_c_files(folder_path):

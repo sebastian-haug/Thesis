@@ -8,6 +8,12 @@ from langchain_openai import ChatOpenAI
 import os
 import base64
 import tempfile
+
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # Load environment variables from .env file
+
 # Set the path where the vector stores will be saved
 vectorstore_path = "hypothesis_2/vector_stores"
 

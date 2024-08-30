@@ -11,6 +11,11 @@ from implementation.test_functions import clear_all_files, compile_code, concate
 from implementation.hypothesis_3_2 import fix_c_code
 from implementation.helper_functions.rag import process_c_files
 
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # Load environment variables from .env file
+
 def remove_element_and_comment(input_file_path, element_to_remove):
     # Read the content of the source code file into a list of lines
     with open(input_file_path, 'r') as file:

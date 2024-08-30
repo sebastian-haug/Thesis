@@ -4,6 +4,11 @@ from implementation.helper_functions.rag import process_c_files
 from implementation.hypothesis_3_2 import fix_c_code
 from implementation.test_functions import clear_all_files, compile_code
 
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # Load environment variables from .env file
+
 def run_iterations_without_interface(num_iterations):
     """
     Runs the iteration process without the interface for a specified number of times.
