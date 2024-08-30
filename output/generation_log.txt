@@ -1,0 +1,236 @@
+2024-08-30 16:44:46 - Generating function: set_input_output_mode with parameters LED_PORT_BASE, LED_ROOM1_PIN, GPIO_MODE_OUTPUT_PP
+2024-08-30 16:44:52 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:44:52 - Generating function: ENABLE_GPIOA_CLOCK with parameters 
+2024-08-30 16:44:56 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:44:56 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:45:01 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:45:01 - Generating function: ENABLE_GPIOC_CLOCK with parameters 
+2024-08-30 16:45:04 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:45:04 - Generating function: hardware_abstraction_layer_function_gpio_read_pin with parameters SENSOR_PORT_BASE, TOUCH_SENSOR1_PIN
+2024-08-30 16:45:10 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:45:10 - Generating function: hardware_abstraction_layer_function_gpio_write_pin with parameters LED_PORT_BASE, LED_ROOM1_PIN, 1
+2024-08-30 16:45:40 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:45:40 - Generating function: hardware_abstraction_layer_function_gpio_toggle_pin with parameters LED_PORT_BASE, WARN_LED_PIN
+2024-08-30 16:45:51 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:45:51 - Generating function: hardware_abstraction_layer_function_delay with parameters 50
+2024-08-30 16:45:57 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:45:57 - Generating variable: GPIO_MODE_INPUT
+2024-08-30 16:45:59 - Inserted code into implementation\input\src\variables.h
+2024-08-30 16:45:59 - Generating variable: GPIOA
+2024-08-30 16:46:04 - Inserted code into implementation\input\src\variables.h
+2024-08-30 16:46:04 - Generating variable: GPIO_PIN_4
+2024-08-30 16:46:07 - Inserted code into implementation\input\src\variables.h
+2024-08-30 16:46:07 - Generating variable: GPIOB
+2024-08-30 16:46:09 - Inserted code into implementation\input\src\variables.h
+2024-08-30 16:46:09 - Generating variable: GPIO_PIN_2
+2024-08-30 16:46:11 - Inserted code into implementation\input\src\variables.h
+2024-08-30 16:46:11 - Generating variable: GPIO_PIN_5
+2024-08-30 16:46:14 - Inserted code into implementation\input\src\variables.h
+2024-08-30 16:46:14 - Generating variable: GPIO_MODE_OUTPUT_PP
+2024-08-30 16:46:16 - Inserted code into implementation\input\src\variables.h
+2024-08-30 16:46:16 - Generating variable: GPIO_PIN_3
+2024-08-30 16:46:18 - Inserted code into implementation\input\src\variables.h
+2024-08-30 16:46:18 - Generating variable: GPIO_PIN_6
+2024-08-30 16:46:20 - Inserted code into implementation\input\src\variables.h
+2024-08-30 16:46:20 - Generating variable: GPIO_PIN_1
+2024-08-30 16:46:22 - Inserted code into implementation\input\src\variables.h
+2024-08-30 16:46:24 - Generating function: hardware_abstraction_layer_function_delay with parameters 50
+2024-08-30 16:46:28 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:46:32 - Generating function: hardware_abstraction_layer_function_gpio_write_pin with parameters LED_PORT_BASE, LED_ROOM1_PIN, 1
+2024-08-30 16:46:36 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:46:39 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:46:43 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:46:46 - Generating function: set_input_output_mode with parameters LED_PORT_BASE, LED_ROOM1_PIN, GPIO_MODE_OUTPUT_PP
+2024-08-30 16:46:51 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:46:53 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:46:58 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:47:01 - Generating function: ENABLE_GPIOC_CLOCK with parameters 
+2024-08-30 16:47:04 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:47:08 - Generating function: ENABLE_GPIOA_CLOCK with parameters 
+2024-08-30 16:47:12 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:47:15 - Generating function: ENABLE_GPIOA_CLOCK with parameters 
+2024-08-30 16:47:19 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:47:23 - Generating function: hardware_abstraction_layer_function_gpio_read_pin with parameters SENSOR_PORT_BASE, TOUCH_SENSOR1_PIN
+2024-08-30 16:47:31 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:47:33 - Generating function: hardware_abstraction_layer_function_gpio_read_pin with parameters SENSOR_PORT_BASE, TOUCH_SENSOR1_PIN
+2024-08-30 16:47:39 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:47:43 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:47:46 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:47:50 - Generating function: ENABLE_GPIOC_CLOCK with parameters 
+2024-08-30 16:47:53 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:47:56 - Generating function: ENABLE_GPIOC_CLOCK with parameters 
+2024-08-30 16:48:00 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:48:02 - Generating function: set_input_output_mode with parameters LED_PORT_BASE, LED_ROOM1_PIN, GPIO_MODE_OUTPUT_PP
+2024-08-30 16:48:07 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:48:10 - Generating function: set_input_output_mode with parameters LED_PORT_BASE, LED_ROOM1_PIN, GPIO_MODE_OUTPUT_PP
+2024-08-30 16:48:14 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:48:17 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:48:21 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:48:23 - Generating function: hardware_abstraction_layer_function_gpio_write_pin with parameters LED_PORT_BASE, LED_ROOM1_PIN, 1
+2024-08-30 16:48:28 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:48:31 - Generating function: hardware_abstraction_layer_function_gpio_write_pin with parameters LED_PORT_BASE, LED_ROOM1_PIN, 1
+2024-08-30 16:48:36 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:48:39 - Generating function: ENABLE_GPIOC_CLOCK with parameters 
+2024-08-30 16:48:43 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:48:46 - Generating function: hardware_abstraction_layer_function_gpio_toggle_pin with parameters LED_PORT_BASE, WARN_LED_PIN
+2024-08-30 16:48:54 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:48:56 - Generating function: hardware_abstraction_layer_function_gpio_write_pin with parameters LED_PORT_BASE, LED_ROOM1_PIN, 1
+2024-08-30 16:49:01 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:49:04 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:49:08 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:49:11 - Generating function: hardware_abstraction_layer_function_gpio_read_pin with parameters SENSOR_PORT_BASE, TOUCH_SENSOR1_PIN
+2024-08-30 16:49:17 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:49:20 - Generating function: ENABLE_GPIOC_CLOCK with parameters 
+2024-08-30 16:49:24 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:49:27 - Generating function: hardware_abstraction_layer_function_delay with parameters 50
+2024-08-30 16:49:30 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:49:33 - Generating function: hardware_abstraction_layer_function_delay with parameters 50
+2024-08-30 16:49:37 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:49:42 - Generating function: hardware_abstraction_layer_function_gpio_read_pin with parameters SENSOR_PORT_BASE, TOUCH_SENSOR1_PIN
+2024-08-30 16:49:47 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:49:50 - Generating function: set_input_output_mode with parameters LED_PORT_BASE, LED_ROOM1_PIN, GPIO_MODE_OUTPUT_PP
+2024-08-30 16:49:55 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:49:58 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:50:02 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:50:05 - Generating function: hardware_abstraction_layer_function_gpio_write_pin with parameters LED_PORT_BASE, LED_ROOM1_PIN, 1
+2024-08-30 16:50:11 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:50:14 - Generating function: set_input_output_mode with parameters LED_PORT_BASE, LED_ROOM1_PIN, GPIO_MODE_OUTPUT_PP
+2024-08-30 16:50:19 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:50:21 - Generating function: hardware_abstraction_layer_function_gpio_write_pin with parameters LED_PORT_BASE, LED_ROOM1_PIN, 1
+2024-08-30 16:50:27 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:50:30 - Generating function: hardware_abstraction_layer_function_delay with parameters 50
+2024-08-30 16:50:33 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:50:39 - Generating function: hardware_abstraction_layer_function_gpio_write_pin with parameters LED_PORT_BASE, LED_ROOM1_PIN, 1
+2024-08-30 16:50:44 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:50:47 - Generating function: ENABLE_GPIOC_CLOCK with parameters 
+2024-08-30 16:50:51 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:50:54 - Generating function: hardware_abstraction_layer_function_delay with parameters 50
+2024-08-30 16:50:57 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:51:00 - Generating function: hardware_abstraction_layer_function_gpio_toggle_pin with parameters LED_PORT_BASE, WARN_LED_PIN
+2024-08-30 16:51:06 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:51:08 - Generating function: hardware_abstraction_layer_function_delay with parameters 50
+2024-08-30 16:51:12 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:51:15 - Generating function: ENABLE_GPIOC_CLOCK with parameters 
+2024-08-30 16:51:18 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:51:21 - Generating function: ENABLE_GPIOA_CLOCK with parameters 
+2024-08-30 16:51:26 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:51:29 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:51:32 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:51:35 - Generating function: hardware_abstraction_layer_function_delay with parameters 50
+2024-08-30 16:51:39 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:51:41 - Generating function: hardware_abstraction_layer_function_delay with parameters 50
+2024-08-30 16:51:46 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:51:49 - Generating function: hardware_abstraction_layer_function_gpio_write_pin with parameters LED_PORT_BASE, LED_ROOM1_PIN, 1
+2024-08-30 16:51:54 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:51:57 - Generating function: hardware_abstraction_layer_function_gpio_write_pin with parameters LED_PORT_BASE, LED_ROOM1_PIN, 1
+2024-08-30 16:52:02 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:52:05 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:52:09 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:52:11 - Generating function: hardware_abstraction_layer_function_gpio_read_pin with parameters SENSOR_PORT_BASE, TOUCH_SENSOR1_PIN
+2024-08-30 16:52:20 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:52:22 - Generating function: hardware_abstraction_layer_function_gpio_read_pin with parameters SENSOR_PORT_BASE, TOUCH_SENSOR1_PIN
+2024-08-30 16:52:33 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:52:36 - Generating function: hardware_abstraction_layer_function_gpio_read_pin with parameters SENSOR_PORT_BASE, TOUCH_SENSOR1_PIN
+2024-08-30 16:52:51 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:52:54 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:52:58 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:53:01 - Generating function: set_input_output_mode with parameters LED_PORT_BASE, LED_ROOM1_PIN, GPIO_MODE_OUTPUT_PP
+2024-08-30 16:53:06 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:53:09 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:53:13 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:53:17 - Generating function: hardware_abstraction_layer_function_gpio_toggle_pin with parameters LED_PORT_BASE, WARN_LED_PIN
+2024-08-30 16:53:23 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:53:26 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:53:33 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:53:36 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:53:40 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:53:43 - Generating function: set_input_output_mode with parameters LED_PORT_BASE, LED_ROOM1_PIN, GPIO_MODE_OUTPUT_PP
+2024-08-30 16:53:47 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:53:50 - Generating function: hardware_abstraction_layer_function_gpio_write_pin with parameters LED_PORT_BASE, LED_ROOM1_PIN, 1
+2024-08-30 16:53:55 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:53:59 - Generating function: hardware_abstraction_layer_function_gpio_toggle_pin with parameters LED_PORT_BASE, WARN_LED_PIN
+2024-08-30 16:54:04 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:54:07 - Generating function: ENABLE_GPIOC_CLOCK with parameters 
+2024-08-30 16:54:10 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:54:13 - Generating function: hardware_abstraction_layer_function_gpio_read_pin with parameters SENSOR_PORT_BASE, TOUCH_SENSOR1_PIN
+2024-08-30 16:54:18 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:54:21 - Generating function: ENABLE_GPIOC_CLOCK with parameters 
+2024-08-30 16:54:25 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:54:30 - Generating function: hardware_abstraction_layer_function_gpio_write_pin with parameters LED_PORT_BASE, LED_ROOM1_PIN, 1
+2024-08-30 16:54:36 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:54:38 - Generating function: ENABLE_GPIOC_CLOCK with parameters 
+2024-08-30 16:54:43 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:54:46 - Generating function: hardware_abstraction_layer_function_delay with parameters 50
+2024-08-30 16:54:50 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:54:53 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:54:57 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:55:01 - Generating function: hardware_abstraction_layer_function_gpio_toggle_pin with parameters LED_PORT_BASE, WARN_LED_PIN
+2024-08-30 16:55:06 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:55:09 - Generating function: hardware_abstraction_layer_function_gpio_toggle_pin with parameters LED_PORT_BASE, WARN_LED_PIN
+2024-08-30 16:55:14 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:55:17 - Generating function: hardware_abstraction_layer_function_gpio_toggle_pin with parameters LED_PORT_BASE, WARN_LED_PIN
+2024-08-30 16:55:21 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:55:24 - Generating function: hardware_abstraction_layer_function_delay with parameters 50
+2024-08-30 16:55:36 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:55:39 - Generating function: hardware_abstraction_layer_function_delay with parameters 50
+2024-08-30 16:55:42 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:55:45 - Generating function: set_input_output_mode with parameters LED_PORT_BASE, LED_ROOM1_PIN, GPIO_MODE_OUTPUT_PP
+2024-08-30 16:55:50 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:55:52 - Generating function: ENABLE_GPIOC_CLOCK with parameters 
+2024-08-30 16:55:57 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:56:00 - Generating function: ENABLE_GPIOA_CLOCK with parameters 
+2024-08-30 16:56:04 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:56:06 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:56:10 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:56:13 - Generating function: hardware_abstraction_layer_function_gpio_write_pin with parameters LED_PORT_BASE, LED_ROOM1_PIN, 1
+2024-08-30 16:56:19 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:56:22 - Generating function: hardware_abstraction_layer_function_gpio_read_pin with parameters SENSOR_PORT_BASE, TOUCH_SENSOR1_PIN
+2024-08-30 16:56:28 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:56:31 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:56:35 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:56:39 - Generating function: hardware_abstraction_layer_function_gpio_write_pin with parameters LED_PORT_BASE, LED_ROOM1_PIN, 1
+2024-08-30 16:56:45 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:56:48 - Generating function: hardware_abstraction_layer_function_gpio_toggle_pin with parameters LED_PORT_BASE, WARN_LED_PIN
+2024-08-30 16:56:55 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:57:00 - Generating function: hardware_abstraction_layer_function_gpio_toggle_pin with parameters LED_PORT_BASE, WARN_LED_PIN
+2024-08-30 16:57:04 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:57:08 - Generating function: set_input_output_mode with parameters LED_PORT_BASE, LED_ROOM1_PIN, GPIO_MODE_OUTPUT_PP
+2024-08-30 16:57:13 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:57:16 - Generating function: hardware_abstraction_layer_function_gpio_read_pin with parameters SENSOR_PORT_BASE, TOUCH_SENSOR1_PIN
+2024-08-30 16:57:22 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:57:26 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:57:30 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:57:32 - Generating function: ENABLE_GPIOA_CLOCK with parameters 
+2024-08-30 16:57:37 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:57:41 - Generating function: set_input_output_mode with parameters LED_PORT_BASE, LED_ROOM1_PIN, GPIO_MODE_OUTPUT_PP
+2024-08-30 16:57:46 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:57:49 - Generating function: hardware_abstraction_layer_function_gpio_write_pin with parameters LED_PORT_BASE, LED_ROOM1_PIN, 1
+2024-08-30 16:57:54 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:57:57 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:58:01 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:58:04 - Generating function: set_input_output_mode with parameters LED_PORT_BASE, LED_ROOM1_PIN, GPIO_MODE_OUTPUT_PP
+2024-08-30 16:58:09 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:58:12 - Generating function: hardware_abstraction_layer_function_gpio_read_pin with parameters SENSOR_PORT_BASE, TOUCH_SENSOR1_PIN
+2024-08-30 16:58:17 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:58:20 - Generating function: hardware_abstraction_layer_function_delay with parameters 50
+2024-08-30 16:58:23 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:58:26 - Generating function: hardware_abstraction_layer_function_gpio_toggle_pin with parameters LED_PORT_BASE, WARN_LED_PIN
+2024-08-30 16:58:30 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:58:33 - Generating function: set_input_output_mode with parameters LED_PORT_BASE, LED_ROOM1_PIN, GPIO_MODE_OUTPUT_PP
+2024-08-30 16:58:39 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:58:41 - Generating function: hardware_abstraction_layer_function_gpio_toggle_pin with parameters LED_PORT_BASE, WARN_LED_PIN
+2024-08-30 16:58:46 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:58:49 - Generating function: hardware_abstraction_layer_function_gpio_read_pin with parameters SENSOR_PORT_BASE, TOUCH_SENSOR1_PIN
+2024-08-30 16:58:54 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:58:57 - Generating function: hardware_abstraction_layer_function_gpio_read_pin with parameters SENSOR_PORT_BASE, TOUCH_SENSOR1_PIN
+2024-08-30 16:59:03 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:59:07 - Generating function: ENABLE_GPIOC_CLOCK with parameters 
+2024-08-30 16:59:10 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:59:13 - Generating function: set_input_output_mode with parameters LED_PORT_BASE, LED_ROOM1_PIN, GPIO_MODE_OUTPUT_PP
+2024-08-30 16:59:17 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:59:20 - Generating function: hardware_abstraction_layer_function_delay with parameters 50
+2024-08-30 16:59:26 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:59:28 - Generating function: ENABLE_GPIOB_CLOCK with parameters 
+2024-08-30 16:59:33 - Inserted code into implementation\input\src\microcontroller_hal.h
+2024-08-30 16:59:37 - Generating function: hardware_abstraction_layer_function_delay with parameters 50
+2024-08-30 16:59:40 - Inserted code into implementation\input\src\microcontroller_hal.h
