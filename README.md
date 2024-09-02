@@ -44,9 +44,9 @@ To begin exploring the project, follow these steps:
 
 To utilize the compiler methods, follow these steps:
 
-1. **Configure the Compiler Path:**
-   - Open the settings file located at `/.vscode/settings.json`.
-   - Update the `compilerPath` to point to your `gcc.exe` compiler.
+1. **Install and Configure the Compiler:**
+   - Download the Win64 version of the GCC compiler from [winlibs.com](https://winlibs.com/).
+   - After downloading, add the `bin` directory from the extracted files to your `PATH` environment variable.
 
 2. **Run and Update Tests:**
    - To execute the tests and update the results, run:
